@@ -8,7 +8,7 @@ class MoedaRepository {
         icone: 'assets/images/bitcoin.png',
         nome: 'Bitcoin',
         sigla: 'BTC',
-        preco: 106281.84),
+        preco: 98007.83),
     Moeda(
         icone: 'assets/images/cardano.png',
         nome: 'Cardano',

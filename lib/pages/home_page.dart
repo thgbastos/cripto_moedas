@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Cripto Moedas'),
+        title: const Text('CriptoMoedas'),
       ),
       body: ListView.separated(
           itemBuilder: (BuildContext context, int moeda) {
